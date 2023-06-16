@@ -15,3 +15,4 @@ The scripts contain two parts:
 - Folder `sensitivity/sgd_pars' contains scripts for analysis in the subparagraph `Sensitivity analysis for the stochastic search parameters', Section 4.2.
 - Folder `sensitivity/threshold' contains scripts for analysis in the subparagraph `Sensitivity analysis for the threshold values of the boundary-corrected methods', Section 4.2.
 - Folder `application' contains scripts for analysis of the application example in Section 4.3.
+- Folder `dataset_intraday' contains data for the application example, and code used to generate the plots
