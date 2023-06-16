@@ -1,5 +1,14 @@
 # Improvements on Scalable Stochastic Bayesian Inference Methods for Multivariate Hawkes Process
 
+
+## remarks
+
+The scripts contain two parts:
+- The algorithms (script files that start with "MHP")
+- Observed likelihood calculation (script files that start with "calc")
+
+## contents
+
 - Folder `limited_time' contains scripts for analysis in the subparagraph `Optimal subsampling ratios', Section 4.2.
 - Folder `estimation' contains scripts for analysis in the subparagraph `Estimation accuracy', Section 4.2.
 - Folder `sensitivity/data_size' contains scripts for analysis in the subparagraph `Sensitivity analysis for different dataset sizes', Section 4.2.
